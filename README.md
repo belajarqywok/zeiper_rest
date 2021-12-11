@@ -1,2 +1,2 @@
-# zeiper-rest
+# zeiper restful api
 zeiper rest
